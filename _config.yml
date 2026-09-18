@@ -1,0 +1,20 @@
+title: Усатые-хвостатые
+tagline: Собаки из приюта в добрые руки, Москва
+description: >-
+  Пристройство собак из приюта в Москве. Взять собаку в добрые руки — бесплатно.
+  Все собаки здоровы, стерилизованы, привиты. Помогаем с адаптацией.
+url: "https://foxy1718.github.io"
+lang: ru-RU
+author: Усатые-хвостатые
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+header_pages:
+  - dogs.md
+  - about.md
+  - help.md
